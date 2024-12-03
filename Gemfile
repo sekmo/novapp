@@ -46,4 +46,5 @@ end
 
 group :test do
   gem "faker", "~> 3.5", ">= 3.5.1"
+  gem "guard-rspec"
 end
